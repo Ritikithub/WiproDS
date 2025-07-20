@@ -1,0 +1,10 @@
+Name: Ritik
+Class: Python Basics
+Topic: File Handling
+collage=LNCT
+
+language=Python
+Alice
+Bob
+Charlie
+Python is a powerful programming language used worldwide.
